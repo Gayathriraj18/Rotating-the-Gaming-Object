@@ -61,13 +61,10 @@ public class code : MonoBehaviour
 ```
 ## Output:
 
-![Uploading Screenshot 2023-05-26 230918.png…]()
-
-
 ![Screenshot 2023-05-26 230845](https://github.com/Gayathriraj18/Rotating-the-Gaming-Object/assets/94154854/aa7b640a-a8de-4822-b01a-f732c5cffeab)
 
 
 
 ## Result:
 
-The programm is verified succesfully.
+The program is verified succesfully.
