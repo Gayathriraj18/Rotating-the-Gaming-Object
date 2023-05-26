@@ -61,9 +61,10 @@ public class code : MonoBehaviour
 ```
 ## Output:
 
+
 ![Screenshot 2023-05-26 230845](https://github.com/Gayathriraj18/Rotating-the-Gaming-Object/assets/94154854/aa7b640a-a8de-4822-b01a-f732c5cffeab)
 
-
+![output](Screenshot%202023-05-26%20230918.png)
 
 ## Result:
 
