@@ -19,7 +19,7 @@ Inspector ->Surface Inputs ->BaseMAp (Choose the color)
 Drag the Cylinder to the plane and release the mouse
 
 Create a folder in project and name as Materials
-Material folder -> Create -> Material (Name: Capsule)
+Material folder -> Create -> Material (Name: Gayathri)
 Inspector ->Surface Inputs ->BaseMAp (Choose the color)
 Drag the Capsule to the plane and release the mouse
 
@@ -37,7 +37,37 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+Developed by : Gayathri A
+Register Number : 212221230028
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class code : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.RotateAround(Vector3.right, Vector3.up, 40 * Time.deltaTime);
+    }
+}
+```
 ## Output:
 
+![Uploading Screenshot 2023-05-26 230918.png…]()
+
+
+![Screenshot 2023-05-26 230845](https://github.com/Gayathriraj18/Rotating-the-Gaming-Object/assets/94154854/aa7b640a-a8de-4822-b01a-f732c5cffeab)
+
+
+
 ## Result:
+
+The programm is verified succesfully.
